@@ -1,0 +1,2 @@
+Expense{category='Food', amount=300.0, date='2025-11-08'}
+Expense{category='Cleaning ', amount=100.0, date='2025-11-08'}
